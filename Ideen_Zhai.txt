@@ -1,0 +1,12 @@
+Thema: Eine Forschung über Kündigungsmotivation der Angestellten
+
+Datensatz: IBM HR Analytics Employee Attrition & Performance
+
+Grundliegende Fragen: 
+1. Welche Gründe hat den stärksten Zusammenhang mit Kündigung? (größte Referenz)
+2. Unter den nicht gekündigten Angestellten. Was könnte das Gleichheit von denen sein?
+3. Welche Stellung (JobRole) hat die höchste Kündigunsrate? Und die wobigen zwei Fragen an diese Stelle.
+4. Unterscheidet sich die Daten an Geschlehten? Wenn ja, in welchen Bereichen?
+5. 
+
+Statistisches Methode: ?
