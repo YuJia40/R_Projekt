@@ -12,6 +12,19 @@ Grundliegende Fragen:
 Statistisches Methode: ?
 
 
+Forschungsfragen:
+Zusammenhänge zwischen Arttrition variablen, jede.
+Was ist der Hauptgrund? 
+Welche Grunde sind egal? 
+
+Wir unterteilen in 3 Kategorien und prüfen zusammenhänge:
+	Andere Arbeitsstellen/position => andere Kündigungsgründe? 
+	Spielt Gender eine Rolle? 
+	Spielt Education eine rolle? 
+
+Jede Kategorie eine Hypothese.    
+
+
 JEDER ABSCHNITT 1 SEITE MAX!! (Ohne Bilder) 
 
 Masterplan: 
@@ -29,7 +42,7 @@ Aufgabenzuteilung:
 Frederik: Import dataset, Text Schreiben 
 Zhai: Graphen zeichnen 
 Dimitri: Statischtises Modell anwenden (z.b. Linear regression) 
-
+M
 
 Richtline: https://moderndive.com/4-tidy.html
 S
