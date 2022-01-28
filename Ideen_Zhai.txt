@@ -32,3 +32,4 @@ Dimitri: Statischtises Modell anwenden (z.b. Linear regression)
 
 
 Richtline: https://moderndive.com/4-tidy.html
+S
