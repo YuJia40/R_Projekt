@@ -10,5 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r setup, include=FALSE}
-qnorm(2) 
+s
+s
+s
+s
+
 ```
