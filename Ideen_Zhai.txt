@@ -10,3 +10,25 @@ Grundliegende Fragen:
 5. 
 
 Statistisches Methode: ?
+
+
+JEDER ABSCHNITT 1 SEITE MAX!! (Ohne Bilder) 
+
+Masterplan: 
+	1.Einleitung: Fragen, Hypothesen, Erklärung für Dataset 
+
+	2.Explorative Datenanalyse: Explizite Erklärung der Daten(zb was stufen/labels bedeutet) 
+	Numerische Zusammenfassungen. 
+
+	3. Beschreibung der Statistischen Methoden mit Refernze auf Literatur 
+
+	4. Ergebnis und Schlussfolgerungen Wie hängen X und Y zueinander ab . 
+
+
+Aufgabenzuteilung:
+Frederik: Import dataset, Text Schreiben 
+Zhai: Graphen zeichnen 
+Dimitri: Statischtises Modell anwenden (z.b. Linear regression) 
+
+
+Richtline: https://moderndive.com/4-tidy.html
